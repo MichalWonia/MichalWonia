@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał Wonia</h1>
-<h3 align="center">I am interested in developing web applications in Java</h3>
+<h3 align="center">I am interested in developing web applications in C#</h3>
 
 - 🌱 Currently working with C# and Microsoft Azure to build scalable and efficient cloud applications.
 
